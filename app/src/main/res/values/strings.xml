@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Codegama Interview</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="api_key">AIzaSyDhjJnMoVEtsh7yFl9fDeWOP10HPAfiCu0</string>
+</resources>
